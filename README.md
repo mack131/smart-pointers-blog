@@ -261,3 +261,4 @@ By leveraging the strengths of each language's smart pointers, developers can wr
 - [C++ Reference - Smart Pointers](https://en.cppreference.com/w/cpp/memory)
 - [Understanding Ownership in Rust](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
 - [Concurrency in C++](https://en.cppreference.com/w/cpp/thread)
+- [Smart pointer from COMP6771 UNSW](https://teaching.bitflip.com.au/6771/24T2/5.3-smart-pointers.html#/)
